@@ -1,0 +1,38 @@
+criar maven project
+marcar a opção simpleproject
+colocar a notação @SpringBootAplication na classe principal
+no metodo principal colocar SpringApplication.run(Configuracao.arg);
+acima do metodo principal colocar um método chamado
+
+__________________________________________________________
+
+maven 3.0+
+jdk 1.8+
+
+src/main/Java
+src/main/resources
+src/test/Java
+src/test/resources
+JRE SystemLibra...
+Maven Dependencies
+src
+Target
+pom.xml (faz a injeção de dependências)
+
+import org.springframework.boot.Springapplication;
+
+@SpringBootApplication
+@Controller
+
+public class Configuracao{
+ 
+@RequestMapping("/")
+@ResponseBory
+public String oi(){
+	return "boa noite";
+}
+public static void main (String[]args)
+	SpringApplication.run(Configuracao, arg);
+}
+
+__________________________________________________________
