@@ -21,19 +21,19 @@ public class Principal {
 
 			switch (op) {
 			case "1":
-				//Create.Salvar(nome);
+				Create.Salvar(nome);
 				break;
 
 			case "2":
-				//Read.Mostrar(nome);
+				Read.Mostrar(nome);
 				break;
 
 			case "3":
-				//Update.Atualizar(nome);
+				Update.Atualizar(nome);
 				break;
 
 			case "4":
-				//Delete.Excluir(nome);
+				Delete.Excluir(nome);
 				break;
 
 			case "0":
