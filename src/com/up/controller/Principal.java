@@ -1,8 +1,8 @@
-package primeiro;
+package com.up.controller;
 
 import java.util.Scanner;
 
-public class Principal {
+public class Principal { //utilizando hibernate
 
 	public static void main(String[] args) {
 		String nome = "";

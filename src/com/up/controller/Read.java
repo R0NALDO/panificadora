@@ -1,4 +1,4 @@
-package primeiro;
+package com.up.controller;
 
 public class Read {
 
