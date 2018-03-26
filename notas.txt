@@ -1,4 +1,4 @@
-https://cursos.alura.com.br/course/persistencia-de-objetos-com-jpa-hibernate/task/24961
+	https://cursos.alura.com.br/course/persistencia-de-objetos-com-jpa-hibernate/task/24961
 
 1- importar jars do hibernate
 2- importar conector do sql
